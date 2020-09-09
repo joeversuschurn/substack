@@ -1,0 +1,51 @@
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+    
+.intro-popup-page.intro-popup-page-0 {
+    background-color: #FECE2F !important;
+}
+        
+.full-email-form .publication-name {
+    font-family: 'Space Mono', monospace !important;
+    font-weight: bold !important;
+    color: black !important;
+}
+
+.publication-tagline {
+    font-family: 'Space Mono', monospace !important;
+    color: black !important;
+}
+    
+.button.maybe-later {
+    font-family: 'Space Mono', monospace !important;
+    color: black !important;
+}
+    
+.button {
+    border-radius: 0 !important;
+}
+
+input {
+    font-family: 'Space Mono', monospace !important;
+    background-color: #FECE2F !important;
+    border: 3px solid black !important;
+    border-radius: 0 !important;
+}
+
+input::placeholder {
+    color: black !important;
+}
+
+body {
+    background-color: #FECE2F !important;
+}
+
+button.button.rightButton.primary.subscribe-btn {
+    font-family: 'Space Mono', monospace !important;
+    background-color: black !important;
+    border: 1px solid black !important;
+    color: #FECE2F !important;
+}
+
+</style>
