@@ -45,3 +45,36 @@ button.button.rightButton.primary.subscribe-btn {
     border: 1px solid black !important;
     color: #FECE2F !important;
 }
+
+.topbar {
+        background-color: #FECE2F !important;
+        border-bottom: 3px solid #000000 !important;
+}
+    
+.drop-down {
+        background: #FECE2F !important;
+        outline: #000000 !important;
+}
+    
+h1, h2, h3, h4, h5, h6, p, a, td {
+        font-family: 'Space Mono', monospace !important;
+        color: #000000 !important;
+}
+    
+path {
+        stroke: #000000 !important;
+}
+    
+.container-border {
+        border-top: 0px !important;
+}
+    
+.footer {
+        background-color: #FECE2F !important;
+        font-family: 'Space Mono', monospace !important;
+        color: #000000 !important;
+}
+    
+.subheader {
+        border-bottom: 3px solid #000000 !important;
+}
